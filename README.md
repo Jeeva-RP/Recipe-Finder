@@ -7,6 +7,7 @@ Semmaiya Samaikkurom Bayangarama Rusikurom is a full-stack recipe search and dis
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [About](#about)
+- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Description
@@ -54,10 +55,13 @@ This project is built using the following technologies:
 
 The application features a responsive layout optimized for both mobile and desktop devices, making it easy to search, explore, and save your favorite recipes.
 
-## Contact
+## Contributing
 
-For any inquiries, suggestions, or feedback, feel free to reach out:
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-- **Email:** jeevarp.22eie@kongu.edu
-- **Phone:** 9842623963
-- **GitHub:** [https://github.com/Jeeva-RP](https://github.com/Jeeva-RP)
+## Contact Information
+
+- Name : JEEVA R P
+- Email : jeevaparamasivam005@gmail.com
+- LinkedIn : www.linkedin.com/in/jeeva-r-p
+- Phone : 9842623963
